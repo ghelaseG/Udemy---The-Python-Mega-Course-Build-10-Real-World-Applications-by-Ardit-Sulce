@@ -1,1 +1,1 @@
-# Udemy---The-Python-Mega-Course-Build-10-Real-World-Applications-by-Ardit-Sulce
+### Udemy---The-Python-Mega-Course-Build-10-Real-World-Applications-by-Ardit-Sulce explains more in detail everything from list, tuples to pandas, numpy etc. The practice exercises are great, and I’m sure I will go back to this course especially to repeat those practice problems. Good luck! 
